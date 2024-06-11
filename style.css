@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(76, 80, 80);
+}
+h1, h2, h3, h4 {
+    text-align: center;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+p {
+    font-size: 22px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul {
+    font-size: 22px;
+}
